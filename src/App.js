@@ -2,6 +2,8 @@ import './App.css';
 import './index.css';
 import data from './data.json';
 import image1 from './images/homeless1.jpg';
+import image2 from './images/homeless2.jpg';
+import image3 from './images/homeless3.jpg';
 
 function App() {
 
@@ -27,6 +29,11 @@ function App() {
           <p>
             {data["2"]}
           </p>
+        </div>
+
+        <div className="images-container">
+          <img className="image image1-container" src={image2} alt=""/>
+          <img className="image image1-container" src={image3} alt=""/>
         </div>
 
       </div>

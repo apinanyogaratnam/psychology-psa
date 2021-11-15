@@ -38,6 +38,7 @@ code {
   padding: 10px;
   border-color: steelblue;
   border-style: solid;
+  border-radius: 10px;
 }
 
 .text-content1 {
@@ -81,4 +82,12 @@ code {
 
 .spacing {
   padding: 10px;
+}
+
+.images-container {
+  width: 82%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
