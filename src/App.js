@@ -23,7 +23,9 @@ function App() {
           </p>
         </div>
 
-        <img className="image image1-container" src={image1} alt=""/>
+        <a href="https://www.pexels.com/photo/man-in-green-jacket-lying-on-floor-8078366/">
+          <img className="image image1-container" src={image1} alt=""/>
+        </a>
 
         <div className="text-content1">
           <p>
@@ -32,8 +34,12 @@ function App() {
         </div>
 
         <div className="images-container">
-          <img className="image image1-container" src={image2} alt=""/>
-          <img className="image image1-container" src={image3} alt=""/>
+          <a href="https://www.pexels.com/photo/man-in-gray-sweater-sitting-on-ground-holding-a-sign-4809608/">
+            <img className="image image1-container" src={image2} alt=""/>
+          </a>
+          <a href="https://www.pexels.com/photo/city-landscape-man-person-8078473/">
+            <img className="image image1-container" src={image3} alt=""/>
+          </a>
         </div>
 
         <div className="text-content1">
