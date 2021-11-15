@@ -19,7 +19,7 @@ function App() {
 
         <div className="text-content1">
           <p>
-            {data["1"]}
+            <b>{data["1"]}</b>
           </p>
         </div>
 
@@ -27,13 +27,19 @@ function App() {
 
         <div className="text-content1">
           <p>
-            {data["2"]}
+            <b>{data["2"]}</b>
           </p>
         </div>
 
         <div className="images-container">
           <img className="image image1-container" src={image2} alt=""/>
           <img className="image image1-container" src={image3} alt=""/>
+        </div>
+
+        <div className="text-content1">
+          <p>
+            <b>{data["3"]}</b>
+          </p>
         </div>
 
       </div>
