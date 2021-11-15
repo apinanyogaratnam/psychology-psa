@@ -64,3 +64,21 @@ code {
   border-radius: 10px;
   margin: 10px auto;
 }
+
+.resources-container {
+  width: 80%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  margin: 10px auto;
+  padding: 10px;
+  border-color: steelblue;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.spacing {
+  padding: 10px;
+}
