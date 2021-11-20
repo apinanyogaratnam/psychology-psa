@@ -39,6 +39,7 @@ code {
   border-color: steelblue;
   border-style: solid;
   border-radius: 10px;
+  background-color: whitesmoke;
 }
 
 .text-content1 {
@@ -48,11 +49,12 @@ code {
   border-style: solid;
   border-radius: 10px;
   width: 80%;
+  background-color: whitesmoke;
 }
 
 .main {
   overflow: hidden;
-  background-color: #aec8ff;
+  background-color: skyblue;
 }
 
 .image {
@@ -81,6 +83,7 @@ code {
   border-color: steelblue;
   border-style: solid;
   border-radius: 10px;
+  background-color: whitesmoke;
 }
 
 .spacing {
