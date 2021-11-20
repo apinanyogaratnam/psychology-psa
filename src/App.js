@@ -48,6 +48,12 @@ function App() {
           </p>
         </div>
 
+        <div className="text-content1">
+          <p>
+            <b>{data["4"]}</b>
+          </p>
+        </div>
+
       </div>
 
       <div className="resources-container">
