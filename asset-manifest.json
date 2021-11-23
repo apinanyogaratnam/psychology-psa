@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/psychology-psa/static/css/main.90de047f.chunk.css",
-    "main.js": "/psychology-psa/static/js/main.167de625.chunk.js",
-    "main.js.map": "/psychology-psa/static/js/main.167de625.chunk.js.map",
+    "main.js": "/psychology-psa/static/js/main.48c23463.chunk.js",
+    "main.js.map": "/psychology-psa/static/js/main.48c23463.chunk.js.map",
     "runtime-main.js": "/psychology-psa/static/js/runtime-main.e43ff03f.js",
     "runtime-main.js.map": "/psychology-psa/static/js/runtime-main.e43ff03f.js.map",
-    "static/js/2.99d1601d.chunk.js": "/psychology-psa/static/js/2.99d1601d.chunk.js",
-    "static/js/2.99d1601d.chunk.js.map": "/psychology-psa/static/js/2.99d1601d.chunk.js.map",
+    "static/js/2.571ae5ce.chunk.js": "/psychology-psa/static/js/2.571ae5ce.chunk.js",
+    "static/js/2.571ae5ce.chunk.js.map": "/psychology-psa/static/js/2.571ae5ce.chunk.js.map",
     "static/js/3.860e2f42.chunk.js": "/psychology-psa/static/js/3.860e2f42.chunk.js",
     "static/js/3.860e2f42.chunk.js.map": "/psychology-psa/static/js/3.860e2f42.chunk.js.map",
     "index.html": "/psychology-psa/index.html",
     "static/css/main.90de047f.chunk.css.map": "/psychology-psa/static/css/main.90de047f.chunk.css.map",
-    "static/js/2.99d1601d.chunk.js.LICENSE.txt": "/psychology-psa/static/js/2.99d1601d.chunk.js.LICENSE.txt",
+    "static/js/2.571ae5ce.chunk.js.LICENSE.txt": "/psychology-psa/static/js/2.571ae5ce.chunk.js.LICENSE.txt",
     "static/media/homeless1.5e7eeb47.jpg": "/psychology-psa/static/media/homeless1.5e7eeb47.jpg",
     "static/media/homeless2.444ff78d.jpg": "/psychology-psa/static/media/homeless2.444ff78d.jpg",
     "static/media/homeless3.2b56eb19.jpg": "/psychology-psa/static/media/homeless3.2b56eb19.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e43ff03f.js",
-    "static/js/2.99d1601d.chunk.js",
+    "static/js/2.571ae5ce.chunk.js",
     "static/css/main.90de047f.chunk.css",
-    "static/js/main.167de625.chunk.js"
+    "static/js/main.48c23463.chunk.js"
   ]
 }
