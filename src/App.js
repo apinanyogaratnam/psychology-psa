@@ -12,7 +12,7 @@ function App() {
     <div className="main">
 
       <div className="main-container">
-        <h1>Are homeless people really drugs addicts and alcoholics?</h1>
+        <h1>Homeless are Alcohol/Drug Dependent: Myth or Reality</h1>
       </div>
 
       <div className="main-container-content">
