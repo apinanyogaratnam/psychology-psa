@@ -4,6 +4,7 @@ import data from './data.json';
 import image1 from './images/homeless1.jpg';
 import image2 from './images/homeless2.jpg';
 import image3 from './images/homeless3.jpg';
+import { Text } from './text';
 
 function App() {
 
@@ -17,21 +18,16 @@ function App() {
 
       <div className="main-container-content">
 
-        <div className="text-content1">
-          <p>
-            <b>{data["1"]}</b>
-          </p>
-        </div>
+        <Text index="1" />
 
         <a href="https://www.pexels.com/photo/man-in-green-jacket-lying-on-floor-8078366/" target="_blank" rel="noopener noreferrer">
           <img className="image image1-container" src={image1} alt=""/>
         </a>
 
-        <div className="text-content1">
-          <p>
-            <b>{data["2"]}</b>
-          </p>
-        </div>
+        <Text index="2" />
+        <Text index="3" />
+        <Text index="4" />
+        <Text index="5" />
 
         <div className="images-container">
           <a href="https://www.pexels.com/photo/man-in-gray-sweater-sitting-on-ground-holding-a-sign-4809608/" target="_blank" rel="noopener noreferrer">
@@ -42,17 +38,10 @@ function App() {
           </a>
         </div>
 
-        <div className="text-content1">
-          <p>
-            <b>{data["3"]}</b>
-          </p>
-        </div>
-
-        <div className="text-content1">
-          <p>
-            <b>{data["4"]}</b>
-          </p>
-        </div>
+        <Text index="6" />
+        <Text index="7" />
+        <Text index="8" />
+        <Text index="9" />
 
       </div>
 
