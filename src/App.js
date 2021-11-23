@@ -23,6 +23,7 @@ function App() {
         <a href="https://www.pexels.com/photo/man-in-green-jacket-lying-on-floor-8078366/" target="_blank" rel="noopener noreferrer">
           <img className="image image1-container" src={image1} alt=""/>
         </a>
+        <p>click to view origin of image</p>
 
         <Text index="2" />
         <Text index="3" />
@@ -33,9 +34,11 @@ function App() {
           <a href="https://www.pexels.com/photo/man-in-gray-sweater-sitting-on-ground-holding-a-sign-4809608/" target="_blank" rel="noopener noreferrer">
             <img className="image image1-container" src={image2} alt=""/>
           </a>
+          <p>click to view origin of image</p>
           <a href="https://www.pexels.com/photo/city-landscape-man-person-8078473/" target="_blank" rel="noopener noreferrer">
             <img className="image image1-container" src={image3} alt=""/>
           </a>
+          <p>click to view origin of image</p>
         </div>
 
         <Text index="6" />
